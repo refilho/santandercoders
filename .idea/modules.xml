@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/booleanos/booleanos.iml" filepath="$PROJECT_DIR$/booleanos/booleanos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturas-condicionais/estruturas-condicionais.iml" filepath="$PROJECT_DIR$/estruturas-condicionais/estruturas-condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/funcoes/funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lacosnumericos/lacosnumericos.iml" filepath="$PROJECT_DIR$/lacosnumericos/lacosnumericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manipulacaostringdatas/manipulacaostringdatas.iml" filepath="$PROJECT_DIR$/manipulacaostringdatas/manipulacaostringdatas.iml" />
       <module fileurl="file://$PROJECT_DIR$/santandercoders.iml" filepath="$PROJECT_DIR$/santandercoders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores/vetores.iml" filepath="$PROJECT_DIR$/vetores/vetores.iml" />
     </modules>
   </component>
 </project>
