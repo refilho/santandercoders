@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96d524ed-d810-4142-a3f9-99854e0910c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/booleanos/booleanos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas-condicionais/estruturas-condicionais.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas-condicionais/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/funcoes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lacosnumericos/lacosnumericos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lacosnumericos/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manipulacaostringdatas/manipulacaostringdatas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manipulacaostringdatas/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vetores/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vetores/vetores.iml" afterDir="false" />
+    <list default="true" id="96d524ed-d810-4142-a3f9-99854e0910c4" name="Changes" comment="Aula de Variaveis, Operadores booleanos, estruturas condicionais, manipulacao de datas, lacos, vetores e funcoes.">
+      <change afterPath="$PROJECT_DIR$/CursoPOO/CursoPOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPOO/classes/classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPOO/classes/src/Animais/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPOO/classes/src/Animais/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPOO/classes/src/Animais/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPOO/classes/src/Animais/Passaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPOO/classes/src/Lojas/PetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPOO/classes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPOO/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booleanos/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/booleanos/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +52,24 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="funcoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CursoPOO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="classes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,6 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -87,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1700009674606</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aula de Variaveis, Operadores booleanos, estruturas condicionais, manipulacao de datas, lacos, vetores e funcoes.">
+      <created>1700047763551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700047763551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula de Variaveis, Operadores booleanos, estruturas condicionais, manipulacao de datas, lacos, vetores e funcoes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula de Variaveis, Operadores booleanos, estruturas condicionais, manipulacao de datas, lacos, vetores e funcoes." />
   </component>
 </project>
